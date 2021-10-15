@@ -68,6 +68,8 @@ F. true, Boolean(2) evaluates to true as long as its not 0, and true is strictly
 
 Question 15: == is just a regular equality check and only checks value, while === is a strict equality check that checks both type and value
 
+Question 17: The new array will have a value of [2, 4, 6] as the loop will go through each value in the array in multiply it by 2. Note that nothing is actually printed though.
 
+Question 19:
 
 
