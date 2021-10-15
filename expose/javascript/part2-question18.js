@@ -1,5 +1,5 @@
-NOTE: NOT DONE
+function redo(){
 let d = new Date();
 let time = d.toLocaleTimeString();
-let trueTime = setInterval(time, 1000);
-console.log(trueTime);
+console.log(time);
+} setInterval(redo, 1000);
