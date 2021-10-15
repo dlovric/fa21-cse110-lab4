@@ -70,6 +70,10 @@ Question 15: == is just a regular equality check and only checks value, while ==
 
 Question 17: The new array will have a value of [2, 4, 6] as the loop will go through each value in the array in multiply it by 2. Note that nothing is actually printed though.
 
-Question 19:
+Question 19: Output: \
+1 \
+4 \
+3 \
+2 
 
 
